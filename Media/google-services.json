@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1049677714159",
+    "firebase_url": "https://phuong-trinh-beauty-default-rtdb.firebaseio.com",
+    "project_id": "phuong-trinh-beauty",
+    "storage_bucket": "phuong-trinh-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049677714159:android:c4131dda3596bb70a5811a",
+        "android_client_info": {
+          "package_name": "vn.phuongtrinhezs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049677714159-kvfmojo84mhrs9s71oar6a8tkrm3m3hv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEgVUDd9obt378OFhnOcyHnlxUAP6N_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049677714159-kvfmojo84mhrs9s71oar6a8tkrm3m3hv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1049677714159-u5of04t3cfcjom7e1ukgoujr8pjvnltd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vn.phuongtrinhezs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
